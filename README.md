@@ -110,7 +110,7 @@ Allows the user to delete a resource from the system (with confirmation).
 ###  Add Booking to a Resource
 Form to add a new booking. Prevents overlaps and validates times.
 
-![Add Booking](Screenshots/AddBookingTime Validate.png)
+![Add Booking](Screenshots/AddBookingTimeValidate.png)
 
 ---
 
