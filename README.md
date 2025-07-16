@@ -38,7 +38,7 @@ ASP.NET Core web Resource booking and scheduling system for managing and booking
 ### Installation
 
 1. **Clone the project:**
-1. git clone https://github.com/yourusername/resource-booking-system.git
+1. git clone https://github.com/bodirwat/Internal_Resource_Booking_System.git
 
 
 ### Screenshot
