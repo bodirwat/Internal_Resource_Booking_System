@@ -31,14 +31,30 @@ ASP.NET Core web Resource booking and scheduling system for managing and booking
 
 ###  Prerequisites
 
-- Visual Studion,  ASP.NET Core , .net 8
+- Visual Studio
+- ASP.NET Core Workload (.NET 8)
 - SQL Server LocalDB 
 
 
 ### Installation
 
 1. **Clone the project:**
-1. git clone https://github.com/bodirwat/Internal_Resource_Booking_System.git
+2. git clone https://github.com/bodirwat/Internal_Resource_Booking_System.git
+
+3. Update Connection String
+
+"ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=InternalResourceBookingDB;Trusted_Connection=false;TrustServerCertificate=true;MultipleActiveResultSets=true;User"
+  }
+
+4. Apply the migrations and create the database.
+
+5. Run the application
+
+
+
+
+
 
 
 ### Screenshot
