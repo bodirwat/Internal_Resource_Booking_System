@@ -38,8 +38,9 @@
 ### Installation
 
 1. **Clone the project:**
+1. 
 
-```bash
+
 git clone https://github.com/yourusername/resource-booking-system.git
 
 
