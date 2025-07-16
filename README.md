@@ -80,14 +80,14 @@ Displays a list of all resources with options to view, edit, or delete each.
 ###  Resource Details with Bookings
 Shows details of a selected resource, with no bookings made for it.
 
-![Resource Details](Screenshots/ResourceDetails no Bookings.png)
+![Resource Details](Screenshots/ResourceDetailsnBookings.png)
 
 ---
 
 ###  Resource Details with Bookings
 Shows details of a selected resource, including bookings made for it.
 
-![Resource Details](Screenshots/ResourceDetails Booking Added.png)
+![Resource Details](Screenshots/ResourceDetailsBookingAdded.png)
 
 ---
 
